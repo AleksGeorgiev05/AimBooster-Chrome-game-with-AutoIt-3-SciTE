@@ -1,0 +1,1 @@
+# AimBooster-Chrome-game-with-AutoIt-3-SciTE
